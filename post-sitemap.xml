@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://example.com/</loc>
+        <loc>https://danielsychoo.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>http://example.com/2021/05/11/2021-05-11_Tue_withRouter_modalClose/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/11/2021-05-11_Tue_withRouter_modalClose/</loc>
         <lastmod>2021-05-18T13:11:17.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/12/2021-05-12_Wed_FindDOMPosition_DeleteEventBubbling/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/12/2021-05-12_Wed_FindDOMPosition_DeleteEventBubbling/</loc>
         <lastmod>2021-05-18T13:11:17.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/17/2021-05-17_Mon_service_version/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/17/2021-05-17_Mon_service_version/</loc>
         <lastmod>2021-05-18T13:11:17.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +33,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/18/2021-05-18_Tue_Cucumber_practice1/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/18/2021-05-18_Tue_Cucumber_practice1/</loc>
         <lastmod>2021-05-18T13:11:17.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -41,7 +41,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/07/2021-05-07_Fri_container_presenter_designParrtern/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/07/2021-05-07_Fri_container_presenter_designParrtern/</loc>
         <lastmod>2021-05-18T13:11:17.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -49,7 +49,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/10/2021-05-10_Mon_inputWithReducer/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/10/2021-05-10_Mon_inputWithReducer/</loc>
         <lastmod>2021-05-18T13:11:17.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +57,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/11/2021-05-11_Tue_component_composition/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/11/2021-05-11_Tue_component_composition/</loc>
         <lastmod>2021-05-18T13:11:17.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -65,7 +65,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/11/2021-05-11_Tue_localState_fetchPolicy/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/11/2021-05-11_Tue_localState_fetchPolicy/</loc>
         <lastmod>2021-05-18T13:11:17.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,7 +73,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/03/2021-05-03_Mon_staticPage/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/03/2021-05-03_Mon_staticPage/</loc>
         <lastmod>2021-05-18T13:11:17.320Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -81,7 +81,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/04/2021-05-04_Tue_loading/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/04/2021-05-04_Tue_loading/</loc>
         <lastmod>2021-05-18T13:11:17.320Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -89,7 +89,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/05/06/2021-05-06_Thu_globalStyles/</loc>
+        <loc>https://danielsychoo.github.io/2021/05/06/2021-05-06_Thu_globalStyles/</loc>
         <lastmod>2021-05-18T13:11:17.320Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -97,7 +97,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/30/2021-04-30_Fri_complete_miniBoard/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/30/2021-04-30_Fri_complete_miniBoard/</loc>
         <lastmod>2021-04-30T15:08:35.375Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -105,7 +105,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/29/2021-04-29_Thu_react_devtools_profile/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/29/2021-04-29_Thu_react_devtools_profile/</loc>
         <lastmod>2021-04-30T15:08:35.375Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -113,7 +113,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/26/2021-04-26_Mon_base64/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/26/2021-04-26_Mon_base64/</loc>
         <lastmod>2021-04-27T12:07:55.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -121,7 +121,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/27/2021-04-27_Tue_modify-logic/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/27/2021-04-27_Tue_modify-logic/</loc>
         <lastmod>2021-04-27T12:07:55.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -129,7 +129,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/23/2021-04-23_Fri_form/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/23/2021-04-23_Fri_form/</loc>
         <lastmod>2021-04-27T12:07:55.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -137,7 +137,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/20/2021-04-20_Tue_cookie/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/20/2021-04-20_Tue_cookie/</loc>
         <lastmod>2021-04-21T13:58:44.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -145,7 +145,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/21/2021-04-21_Wed_proxy/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/21/2021-04-21_Wed_proxy/</loc>
         <lastmod>2021-04-21T13:58:44.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -153,7 +153,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/16/2021-04-16_Fri_react_fileupload/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/16/2021-04-16_Fri_react_fileupload/</loc>
         <lastmod>2021-04-16T13:08:26.307Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,7 +161,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/15/2021-04-15_Thu_extend_custom_hooks/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/15/2021-04-15_Thu_extend_custom_hooks/</loc>
         <lastmod>2021-04-15T13:07:24.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -169,7 +169,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/14/2021-04-14_Wed_React_memoizing/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/14/2021-04-14_Wed_React_memoizing/</loc>
         <lastmod>2021-04-14T11:51:38.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -177,7 +177,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/13/2021-04-13_Tue_useParams/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/13/2021-04-13_Tue_useParams/</loc>
         <lastmod>2021-04-13T11:38:25.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -185,7 +185,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/12/2021-04-12_Mon_Apollo-client/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/12/2021-04-12_Mon_Apollo-client/</loc>
         <lastmod>2021-04-12T12:51:40.556Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -193,7 +193,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/09/2021-04-09_Fri_GraphQL-yoga/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/09/2021-04-09_Fri_GraphQL-yoga/</loc>
         <lastmod>2021-04-12T12:49:37.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -201,7 +201,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/07/2021-04-07_Wed_custom-hooks/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/07/2021-04-07_Wed_custom-hooks/</loc>
         <lastmod>2021-04-12T12:48:02.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -209,7 +209,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/08/2021-04-08_Thu_React-router/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/08/2021-04-08_Thu_React-router/</loc>
         <lastmod>2021-04-12T12:47:52.338Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +217,7 @@
     </url>
 
     <url>
-        <loc>http://example.com/2021/04/06/2021-04-06_Tue_React-hooks/</loc>
+        <loc>https://danielsychoo.github.io/2021/04/06/2021-04-06_Tue_React-hooks/</loc>
         <lastmod>2021-04-12T12:44:39.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
